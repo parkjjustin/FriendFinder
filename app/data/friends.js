@@ -1,22 +1,24 @@
 var friendData = [ {
 	name: "Justin Park",
-	photo: "http://coolwildlife.com/wp-content/uploads/galleries/post-3004/Fox%20Picture%20003.jpg",
-	scores: [ 5,5,5,5,5,5,5,5,5,5]
+	photo: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/65fa961e-8f22-4fe6-a420-3c3c26dd2953.jpg._CB289161999__SL300__.jpg",
+	scores: [ "2", "2", "2", "2", "2", "2", "2", "2", "2", "2" ]
 },
 {
 	name: "LaShonda",
-	photo: "http://coolwildlife.com/wp-content/uploads/galleries/post-3004/Fox%20Picture%20003.jpg",
-	scores: [ 1,1,1,1,1,1,1,1,1,1]
+	photo: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/65fa961e-8f22-4fe6-a420-3c3c26dd2953.jpg._CB289161999__SL300__.jpg",
+	scores: [ "1", "1", "1", "1", "1", "1", "1", "1", "1", "1"]
+			 
 },
 {
 	name: "Dashiki",
-	photo: "http://coolwildlife.com/wp-content/uploads/galleries/post-3004/Fox%20Picture%20003.jpg",
-	scores: [ 3,3,3,3,3,3,3,3,3,3]
+	photo: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/65fa961e-8f22-4fe6-a420-3c3c26dd2953.jpg._CB289161999__SL300__.jpg",
+	scores: [ "3", "3", "3", "3","3", "3", "3", "3", "3", "3"]
+			 
 },
 {
 	name: "Poco",
-	photo: "http://coolwildlife.com/wp-content/uploads/galleries/post-3004/Fox%20Picture%20003.jpg",
-	scores: [ 3,3,3,3,3,3,3,3,3,3]
+	photo: "https://images-na.ssl-images-amazon.com/images/G/01/aplusautomation/vendorimages/65fa961e-8f22-4fe6-a420-3c3c26dd2953.jpg._CB289161999__SL300__.jpg",
+	scores: [ "4", "4", "4", "4", "4", "4", "4", "4", "4", "4"]
 }
 ];
 
